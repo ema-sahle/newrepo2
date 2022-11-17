@@ -5,3 +5,4 @@ Hi
 =======
 Now
 >>>>>>> logo
+added text in github
